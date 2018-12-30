@@ -2,6 +2,8 @@
 
 > Tweet SHA256 version of your goals and crypto prove it once achieved.
 
+![Screenshot](https://github.com/5hanth/mankatha-da/raw/master/tweet.png)
+
 ## How it works?
 
 - Visit [generator page](http://5hanth.github.io/mankatha-da) to add your goals. 
